@@ -1,1 +1,1 @@
-dl: https://raw.githubusercontent.com/sample/test-file/main/sample.txt
+dl: https://k2s.cc/file/c85e6d97d235c
